@@ -1,7 +1,7 @@
 <img alt="interface-web" title="interface-web" src=".github/assets/gifs/simple-website.gif" width="900"/>
 
 ## :large_blue_circle: Sobre
-O projeto tem o objetivo de representar um modelo de portfólio.
+O projeto tem o objetivo de representar um modelo de site simples.
 Os icons utilizados nesse projeto são de origem do site https://www.flaticon.com/.
 
 ## :rocket: Tecnologias
